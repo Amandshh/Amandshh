@@ -1,8 +1,13 @@
 -Alô
+
 -🍄 eu chamo Amanda,tenho 15 anos👍
+
 -🎨Gosto de pintura e desenhos animados
+
 -📒Estudante do Garmatz,1° ano N.E.M.
+
 -🤑One Piece é meu anime favorito.💪🤝
+
 -☕Gosto de ler, meu livro favorito é "as vantagens de ser invisível"
 
 <!---
